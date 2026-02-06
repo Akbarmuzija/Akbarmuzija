@@ -1,4 +1,4 @@
-# Hi, I'm Akbar 👋
+# Hi, I'm Barm 👋
 
 🎓 Information Systems student with a strong interest in **Web & Backend Development**.  
 💻 Experienced in building web-based systems and backend services for academic and personal projects.  
