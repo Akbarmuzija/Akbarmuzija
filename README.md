@@ -45,15 +45,6 @@
 - 💸 **Discount System for Cafe Cashier**
 - 🔗 **REST API-based Backend Services**
 
-➡️ Check my repositories to explore the source code.
-
----
-
-## 📊 GitHub Stats
-![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akbarmuzija&show_icons=true&theme=default)
-
----
-
 ## 📫 Connect With Me
 - GitHub: [github.com/Akbarmuzija](https://github.com/Akbarmuzija)
 
