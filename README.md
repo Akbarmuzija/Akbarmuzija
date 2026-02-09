@@ -37,14 +37,6 @@
 - MVC Architecture & API-based Systems
 
 ---
-
-## 📌 Featured Projects
-- 🧾 **Cafe POS System (PHP Native & Laravel)**
-- 🛍️ **Batik E-Commerce Website**
-- 🥗 **Vegetable Ordering & Marketing Web**
-- 💸 **Discount System for Cafe Cashier**
-- 🔗 **REST API-based Backend Services**
-
 ## 📫 Connect With Me
 - GitHub: [github.com/Akbarmuzija](https://github.com/Akbarmuzija)
 
