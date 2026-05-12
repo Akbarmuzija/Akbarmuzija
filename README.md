@@ -10,22 +10,9 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Laravel & Fullstack Development**
+- 🌱 Currently learning **AI Machine Learning & Fullstack Development**
 - 💻 Love building **Web Applications**
 - 🎯 Focus on becoming a **Professional Software Engineer**
-- ⚡ Fun fact: suka ngulik project sampai pagi 😆
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
 
 ---
 ---
