@@ -59,37 +59,6 @@
 </div>
 
 ---
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=react-dark&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=FFFFFF"/>
-
-</div>
-
----
-
-# 🏆 Achievement
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=matrix&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
