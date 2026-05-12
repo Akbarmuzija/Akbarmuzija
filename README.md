@@ -1,43 +1,98 @@
-# Hi, I'm Barm 👋
+# Hi there 👋 I'm Akbar
 
-🎓 Information Systems student with a strong interest in **Web & Backend Development**.  
-💻 Experienced in building web-based systems and backend services for academic and personal projects.  
-🚀 Actively learning system integration, REST APIs, and scalable backend architecture.
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Laravel+Enthusiast;Web+Developer;Open+Source+Learner" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **Laravel & Fullstack Development**
+- 💻 Love building **Web Applications**
+- 🎯 Focus on becoming a **Professional Software Engineer**
+- ⚡ Fun fact: suka ngulik project sampai pagi 😆
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend & Programming
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
+<div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,tailwind,react,github,vscode" />
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
+</div>
 
 ---
 
-## 🔧 Backend Skills
-- RESTful API Development
-- CRUD & Authentication System
-- Backend Integration with Frontend
-- Database Design & Query Optimization
-- MVC Architecture & API-based Systems
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
 
 ---
-## 📫 Connect With Me
-- GitHub: [github.com/Akbarmuzija](https://github.com/Akbarmuzija)
 
-✨ Always open to learning, collaboration, and backend-focused opportunities.
+## 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=matrix&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://instagram.com/USERNAME_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/USERNAME_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:EMAIL_KAMU">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Visitor Count
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile%20Views&color=22c55e&style=for-the-badge" />
+
+</div>
