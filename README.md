@@ -28,15 +28,6 @@
 </div>
 
 ---
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -48,25 +39,6 @@
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=matrix&no-frame=true&row=1&column=6"/>
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
