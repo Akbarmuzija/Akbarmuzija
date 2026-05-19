@@ -6,8 +6,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile+Views&color=22c55e&style=for-the-badge" />
-
 </div>
 
 ---
@@ -43,18 +41,6 @@
 ### ⚙️ Tools & DevOps
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e"/>
 
 </div>
 
