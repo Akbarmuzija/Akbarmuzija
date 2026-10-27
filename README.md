@@ -1,82 +1,69 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Akbar
+<h1 align="left">Akbar Muzija</h1>
 
-<div align="center">
+<p align="left">
+  <b>Fullstack developer</b> · Backend & API · Information Systems @ Universitas Semarang
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=22C55E&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Backend+API+Developer;Laravel+%7C+TypeScript+%7C+Go;Always+Learning+New+Things" />
-
-<br>
-
-</div>
-
----
-
-# 💫 About Me
-
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-
-- 🔭 Currently building **Web & API Projects**
-- 🌱 Learning **Scalable Backend Architecture**
-- 💡 Interested in **Fullstack & Backend Engineering**
-- ⚡ Love clean UI & efficient API systems
-- 🚀 Goal: Become a Professional Software Engineer
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+```go
+package main
 
-<div align="center">
+type Developer struct {
+	Name     string
+	Focus    []string
+	Building string
+	Learning string
+}
 
-### 👨‍💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,ts,go,php,js" />
-
-### 🚀 Frameworks & Backend
-
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react,nextjs" />
-
-### 🗄️ Database & Cloud
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,firebase" />
-
-### ⚙️ Tools & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-
-</div>
-
----
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+func main() {
+	akbar := Developer{
+		Name:     "Akbar Muzija",
+		Focus:    []string{"Backend & REST API", "Fullstack web", "System design"},
+		Building: "Reservation & management systems for real businesses",
+		Learning: "Scalable backend architecture",
+	}
+	_ = akbar
+}
+```
 
 ---
 
-# 🌐 Connect With Me
+### Stack
 
-<div align="center">
-
-<a href="https://instagram.com/USERNAME_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
-<a href="https://linkedin.com/in/USERNAME_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="mailto:EMAIL_KAMU">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=go,ts,php,py,js&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,nodejs,express&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,firebase&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode&theme=dark" />
+</p>
 
 ---
 
-<div align="center">
+### GitHub Stats
 
-### ⚡ "Code. Build. Learn. Repeat."
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</p>
 
-</div>
+<p>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+### Contact
+
+<p>
+  <a href="https://linkedin.com/in/USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:EMAIL_KAMU"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://instagram.com/USERNAME_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+</p>
